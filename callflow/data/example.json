@@ -1,9 +1,10 @@
+[
 {
             "start": {
                 "action": "IVR",
                 "version": "2.1.0",
                 "message": "AgentLog",
-                "selection0": "http://127.0.0.1:8000/example.json",
+                "selection0": "https://esse-scaux.github.io/callflow/data/example.json",
                 "selection1": "operator"
             },
             "operator": {
@@ -13,4 +14,4 @@
             },
         }
 }
-
+]
