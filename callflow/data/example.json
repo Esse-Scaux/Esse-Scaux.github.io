@@ -1,4 +1,3 @@
-[
 {
 "start": {
 "action": "IVR",
@@ -13,4 +12,3 @@
 "message": "AgentLog"
 }
 }
-]
